@@ -3,10 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Computer%20Architecture&fontSize=60&animation=fadeIn&fontAlign=40)
 
 ----
-<br/>
 
 ### [KOCW: 고려대학교] 컴퓨터구조 - 구건재 교수
-<br/>
+
 
 ----
 ## 목차
